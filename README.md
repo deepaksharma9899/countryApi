@@ -11,7 +11,7 @@ This project is a backend API service developed in PHP that provides useful info
 
 1. Clone the repository:
   
-git clone https://github.com/yourusername/countryApi.git
+git clone https://github.com/deepaksharma9899/countryApi.git
 
 if XAMPP is installed, place this folder in htdocs and start the XAMPP.
   
