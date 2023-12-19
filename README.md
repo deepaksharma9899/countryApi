@@ -23,7 +23,7 @@ if php and apache2 is installed on the server, place this folder inside /var/htm
  curl --location 'http://localhost/countryApi/authenticate.php' --form 'username="deepak"' --form 'password="deepak@123"' .
  Don't forget to change the localhost according to the IP address if files are placed on the server.
 
- After getting links:
+ After getting links, use get request to retrieve the country data:
  1. curl --location 'http://localhost/{link1}'
  2. curl --location 'http://localhost/{link2}' 
 
