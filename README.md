@@ -26,7 +26,7 @@ if php and apache2 is installed on the server, place this folder inside /var/htm
  1. curl --location 'http://localhost/{link1}'
  2. curl --location 'http://localhost/{link2}' 
 
- Using Browser
+ Using Browser, 
  Open the login page and fill the details.
  username - deepak
  Password - deepak@123
